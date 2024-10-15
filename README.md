@@ -2,6 +2,6 @@
 
 Integrantes del equipo: Athina Cappelletti
 
-Plataforma usada: SWI-Prolgo
+Plataforma usada: SWI-Prolog
 
 Lenguaje usado: Prolog
